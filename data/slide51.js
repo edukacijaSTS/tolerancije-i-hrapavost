@@ -1,0 +1,3 @@
+(function(){var loadHandler=window['sl_{2A1CD37B-8BF0-42E5-8DFE-75EA73C25950}'];loadHandler&&loadHandler(50, '<div id="spr0_19309fe6"><div id="spr1_19309fe6" class="kern slide"><img id="img1_19309fe6" src="data/img4.png" width="960px" height="720px" alt="" style="left:0px;top:0px;"/></div><div id="spr2_19309fe6" class="kern slide"><div id="spr3_19309fe6" style="left:-0px;top:12.4px;"><img id="img0_19309fe6" src="data/img108.png" width="954.75" height="675" alt="Slika na kojoj se prikazuje tekst, dijagram, crtež, skeč\
+\
+Opis je automatski generiran" style="left:-0.066px;top:0.135px;"/></div></div></div>');})();
